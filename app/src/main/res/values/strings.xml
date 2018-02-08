@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FacebookSDKDemo</string>
+
+
+    <string name="facebook_app_id">your app id</string>
+    <string name="fb_login_protocol_scheme">you app secret</string>
+
+</resources>
